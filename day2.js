@@ -1,0 +1,12 @@
+console.log(10=='10')
+console.log(10==='10')
+console.log(10!=='10')
+console.log(10===10)
+console.log(7>4)
+console.log(7<4)
+console.log(7>=4)
+console.log(8>=8)
+console.log(8<=8)
+console.log(7<=7)
+
+console.log(10==10)
