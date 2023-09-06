@@ -11,4 +11,4 @@ console.log(idOne)
 //xpath
 
 let byclass = document.querySelector('.two');
-console.log(byclass)
+console.log(byclass);
