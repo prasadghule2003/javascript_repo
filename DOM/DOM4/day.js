@@ -5,6 +5,10 @@
 let idOne = document.querySelector("#one")
 console.log(idOne)
 
-// class
+// class---->it's define using (.)
+//id---->it's define using (#)
+//Attribute and value----->it's define using ([attribute="value"])
+//xpath
 
-let by class = 
+let byclass = document.querySelector('.two');
+console.log(byclass)
