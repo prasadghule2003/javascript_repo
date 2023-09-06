@@ -1,0 +1,11 @@
+h1 {
+color: aqua;
+background-color: black;
+}
+
+p {
+    color: blueviolet;
+    background-color: gold;
+    width: 200px;
+    height: 200px;
+}
